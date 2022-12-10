@@ -1,0 +1,3000 @@
+GOL
+7
+15
+American Airlines
+3
+109
+American Airlines
+4
+199
+American Airlines
+6
+195
+GOL
+15
+46
+American Airlines
+9
+37
+American Airlines
+3
+42
+American Airlines
+13
+2
+American Airlines
+4
+176
+American Airlines
+15
+130
+American Airlines
+7
+81
+AZUL
+12
+35
+LATAM
+12
+13
+American Airlines
+7
+165
+American Airlines
+7
+65
+American Airlines
+7
+29
+American Airlines
+3
+172
+American Airlines
+4
+89
+GOL
+14
+137
+GOL
+6
+121
+American Airlines
+5
+2
+American Airlines
+3
+107
+LATAM
+8
+140
+American Airlines
+9
+128
+American Airlines
+9
+77
+AZUL
+13
+196
+GOL
+6
+146
+GOL
+13
+65
+GOL
+15
+110
+American Airlines
+12
+53
+American Airlines
+6
+106
+American Airlines
+5
+149
+American Airlines
+13
+102
+GOL
+3
+118
+LATAM
+13
+74
+GOL
+8
+172
+LATAM
+12
+108
+American Airlines
+10
+75
+GOL
+5
+192
+American Airlines
+12
+98
+American Airlines
+2
+187
+AZUL
+14
+157
+AZUL
+12
+90
+GOL
+8
+97
+American Airlines
+8
+54
+American Airlines
+14
+26
+GOL
+7
+37
+American Airlines
+3
+113
+American Airlines
+3
+28
+American Airlines
+14
+197
+LATAM
+14
+52
+GOL
+10
+97
+American Airlines
+8
+51
+LATAM
+14
+132
+LATAM
+7
+84
+American Airlines
+15
+61
+American Airlines
+6
+156
+American Airlines
+10
+122
+LATAM
+5
+183
+AZUL
+7
+152
+LATAM
+6
+150
+AZUL
+8
+135
+American Airlines
+15
+141
+American Airlines
+11
+71
+AZUL
+1
+79
+GOL
+14
+176
+AZUL
+4
+94
+AZUL
+13
+105
+American Airlines
+5
+117
+AZUL
+11
+21
+GOL
+4
+70
+American Airlines
+11
+0
+American Airlines
+14
+183
+GOL
+11
+102
+AZUL
+6
+6
+AZUL
+9
+119
+GOL
+10
+107
+LATAM
+15
+91
+American Airlines
+3
+188
+GOL
+7
+99
+American Airlines
+13
+11
+American Airlines
+4
+169
+LATAM
+5
+110
+American Airlines
+12
+7
+AZUL
+5
+135
+American Airlines
+2
+41
+LATAM
+7
+107
+American Airlines
+9
+195
+American Airlines
+11
+146
+GOL
+6
+163
+American Airlines
+14
+175
+American Airlines
+15
+193
+American Airlines
+12
+134
+LATAM
+9
+137
+American Airlines
+11
+91
+AZUL
+11
+81
+American Airlines
+7
+198
+American Airlines
+6
+149
+American Airlines
+7
+53
+LATAM
+10
+33
+American Airlines
+6
+172
+GOL
+14
+1
+LATAM
+13
+165
+American Airlines
+7
+56
+GOL
+12
+67
+GOL
+3
+91
+LATAM
+15
+147
+American Airlines
+12
+182
+American Airlines
+4
+58
+American Airlines
+2
+103
+American Airlines
+11
+18
+American Airlines
+7
+26
+AZUL
+4
+119
+LATAM
+10
+81
+AZUL
+1
+115
+LATAM
+14
+80
+AZUL
+5
+195
+GOL
+10
+193
+AZUL
+2
+67
+American Airlines
+4
+58
+American Airlines
+10
+140
+LATAM
+9
+61
+GOL
+14
+104
+GOL
+14
+176
+AZUL
+15
+94
+LATAM
+13
+173
+AZUL
+10
+48
+American Airlines
+9
+162
+American Airlines
+14
+170
+American Airlines
+1
+68
+GOL
+1
+3
+GOL
+8
+28
+LATAM
+8
+141
+LATAM
+11
+189
+GOL
+8
+101
+American Airlines
+8
+29
+LATAM
+8
+8
+GOL
+6
+173
+LATAM
+13
+27
+LATAM
+6
+138
+GOL
+15
+133
+American Airlines
+12
+94
+American Airlines
+15
+145
+GOL
+1
+186
+American Airlines
+14
+55
+American Airlines
+1
+83
+AZUL
+2
+106
+AZUL
+9
+184
+AZUL
+7
+43
+AZUL
+3
+23
+AZUL
+7
+116
+GOL
+6
+81
+American Airlines
+14
+144
+AZUL
+13
+135
+GOL
+5
+99
+American Airlines
+14
+115
+American Airlines
+12
+177
+American Airlines
+2
+88
+GOL
+1
+19
+LATAM
+3
+193
+American Airlines
+3
+70
+American Airlines
+14
+28
+LATAM
+2
+146
+LATAM
+10
+111
+AZUL
+9
+163
+American Airlines
+1
+86
+American Airlines
+5
+98
+American Airlines
+15
+144
+AZUL
+6
+162
+AZUL
+4
+24
+American Airlines
+10
+125
+AZUL
+15
+67
+American Airlines
+15
+147
+LATAM
+10
+27
+GOL
+8
+103
+American Airlines
+2
+12
+LATAM
+9
+79
+American Airlines
+6
+91
+American Airlines
+13
+51
+American Airlines
+5
+124
+AZUL
+2
+52
+American Airlines
+8
+8
+GOL
+8
+191
+American Airlines
+10
+200
+American Airlines
+4
+159
+GOL
+1
+130
+American Airlines
+13
+9
+GOL
+12
+190
+GOL
+14
+145
+American Airlines
+1
+167
+American Airlines
+15
+160
+LATAM
+7
+104
+American Airlines
+7
+29
+GOL
+12
+172
+American Airlines
+13
+140
+AZUL
+12
+0
+GOL
+9
+95
+LATAM
+15
+83
+American Airlines
+5
+52
+AZUL
+6
+173
+American Airlines
+6
+40
+LATAM
+2
+8
+GOL
+4
+158
+LATAM
+13
+124
+American Airlines
+2
+194
+American Airlines
+13
+29
+American Airlines
+4
+66
+American Airlines
+15
+130
+American Airlines
+8
+152
+GOL
+6
+29
+American Airlines
+10
+9
+GOL
+1
+151
+LATAM
+5
+22
+LATAM
+8
+105
+LATAM
+1
+79
+LATAM
+8
+185
+American Airlines
+2
+13
+AZUL
+4
+92
+AZUL
+6
+177
+American Airlines
+11
+178
+American Airlines
+6
+155
+GOL
+4
+158
+GOL
+8
+94
+GOL
+14
+191
+American Airlines
+14
+179
+American Airlines
+11
+180
+American Airlines
+6
+93
+LATAM
+6
+59
+American Airlines
+6
+103
+American Airlines
+5
+80
+AZUL
+14
+111
+AZUL
+9
+163
+American Airlines
+4
+192
+GOL
+13
+103
+American Airlines
+15
+0
+American Airlines
+8
+60
+AZUL
+1
+196
+LATAM
+4
+174
+LATAM
+15
+46
+GOL
+1
+131
+AZUL
+3
+12
+AZUL
+12
+98
+GOL
+14
+174
+GOL
+1
+69
+GOL
+5
+128
+American Airlines
+8
+26
+AZUL
+3
+16
+American Airlines
+12
+38
+American Airlines
+1
+131
+AZUL
+3
+180
+American Airlines
+8
+171
+American Airlines
+14
+116
+LATAM
+14
+40
+AZUL
+4
+1
+AZUL
+7
+70
+American Airlines
+12
+2
+GOL
+2
+52
+LATAM
+13
+167
+LATAM
+3
+186
+American Airlines
+12
+145
+American Airlines
+6
+10
+AZUL
+12
+158
+AZUL
+4
+194
+American Airlines
+14
+25
+LATAM
+13
+120
+LATAM
+8
+44
+AZUL
+9
+75
+American Airlines
+3
+68
+American Airlines
+11
+58
+AZUL
+13
+55
+American Airlines
+9
+145
+AZUL
+3
+73
+LATAM
+7
+75
+LATAM
+1
+190
+American Airlines
+3
+8
+AZUL
+1
+181
+American Airlines
+3
+154
+AZUL
+1
+120
+American Airlines
+2
+111
+American Airlines
+6
+63
+LATAM
+3
+195
+American Airlines
+15
+136
+American Airlines
+7
+105
+LATAM
+3
+88
+GOL
+9
+173
+AZUL
+3
+132
+GOL
+8
+191
+American Airlines
+10
+155
+AZUL
+8
+89
+GOL
+15
+48
+AZUL
+5
+18
+LATAM
+7
+66
+LATAM
+14
+158
+GOL
+5
+189
+AZUL
+3
+164
+AZUL
+10
+128
+GOL
+11
+110
+GOL
+12
+32
+American Airlines
+4
+12
+GOL
+14
+78
+LATAM
+3
+156
+American Airlines
+10
+16
+American Airlines
+13
+121
+American Airlines
+3
+156
+American Airlines
+3
+166
+American Airlines
+9
+158
+GOL
+8
+106
+AZUL
+4
+170
+American Airlines
+11
+137
+GOL
+2
+90
+American Airlines
+7
+101
+AZUL
+9
+2
+American Airlines
+8
+69
+American Airlines
+15
+12
+LATAM
+8
+111
+American Airlines
+8
+137
+American Airlines
+3
+58
+AZUL
+8
+47
+GOL
+13
+161
+American Airlines
+4
+135
+LATAM
+5
+122
+American Airlines
+6
+142
+LATAM
+3
+175
+GOL
+15
+125
+American Airlines
+12
+150
+American Airlines
+13
+30
+American Airlines
+15
+55
+LATAM
+12
+126
+AZUL
+11
+147
+American Airlines
+2
+145
+AZUL
+2
+194
+American Airlines
+8
+191
+American Airlines
+4
+58
+GOL
+8
+165
+GOL
+4
+10
+American Airlines
+7
+181
+AZUL
+6
+168
+American Airlines
+10
+79
+GOL
+5
+1
+GOL
+6
+106
+American Airlines
+3
+39
+LATAM
+12
+24
+American Airlines
+4
+58
+AZUL
+6
+64
+American Airlines
+3
+126
+LATAM
+15
+91
+GOL
+12
+160
+GOL
+5
+50
+AZUL
+10
+33
+American Airlines
+10
+143
+American Airlines
+15
+164
+American Airlines
+10
+141
+AZUL
+7
+164
+American Airlines
+3
+145
+GOL
+4
+63
+AZUL
+15
+136
+American Airlines
+8
+12
+AZUL
+9
+11
+American Airlines
+5
+154
+GOL
+8
+127
+AZUL
+8
+54
+AZUL
+10
+11
+American Airlines
+3
+157
+GOL
+12
+200
+American Airlines
+3
+47
+American Airlines
+7
+78
+American Airlines
+11
+179
+American Airlines
+15
+8
+AZUL
+4
+52
+AZUL
+5
+64
+American Airlines
+3
+21
+AZUL
+12
+147
+American Airlines
+3
+102
+American Airlines
+15
+65
+American Airlines
+11
+73
+GOL
+13
+163
+American Airlines
+8
+15
+American Airlines
+8
+53
+American Airlines
+5
+151
+GOL
+2
+89
+American Airlines
+15
+75
+American Airlines
+3
+163
+AZUL
+13
+119
+GOL
+1
+26
+AZUL
+10
+190
+GOL
+4
+199
+LATAM
+1
+179
+American Airlines
+14
+105
+GOL
+9
+43
+American Airlines
+3
+50
+GOL
+3
+173
+American Airlines
+7
+30
+American Airlines
+15
+78
+AZUL
+3
+85
+GOL
+14
+93
+American Airlines
+6
+85
+AZUL
+13
+130
+American Airlines
+3
+127
+American Airlines
+13
+166
+AZUL
+13
+165
+GOL
+1
+139
+American Airlines
+7
+198
+LATAM
+4
+192
+American Airlines
+8
+104
+AZUL
+10
+40
+AZUL
+6
+199
+American Airlines
+2
+8
+American Airlines
+6
+85
+American Airlines
+11
+53
+American Airlines
+15
+180
+AZUL
+12
+200
+American Airlines
+5
+125
+AZUL
+11
+98
+GOL
+1
+146
+GOL
+1
+196
+American Airlines
+14
+6
+LATAM
+3
+86
+AZUL
+10
+16
+AZUL
+13
+102
+GOL
+9
+107
+American Airlines
+12
+118
+AZUL
+3
+116
+LATAM
+7
+31
+AZUL
+13
+183
+AZUL
+5
+128
+GOL
+1
+179
+AZUL
+1
+44
+GOL
+1
+159
+GOL
+14
+30
+American Airlines
+14
+81
+AZUL
+8
+36
+American Airlines
+11
+87
+GOL
+6
+81
+AZUL
+7
+181
+American Airlines
+7
+2
+AZUL
+5
+15
+AZUL
+8
+5
+AZUL
+15
+124
+American Airlines
+4
+108
+American Airlines
+4
+50
+GOL
+13
+93
+American Airlines
+8
+87
+American Airlines
+3
+165
+GOL
+2
+105
+American Airlines
+9
+96
+LATAM
+7
+165
+American Airlines
+4
+192
+American Airlines
+1
+21
+AZUL
+1
+190
+American Airlines
+2
+89
+American Airlines
+14
+93
+American Airlines
+11
+53
+American Airlines
+14
+3
+LATAM
+12
+4
+AZUL
+1
+101
+LATAM
+12
+142
+GOL
+1
+20
+LATAM
+7
+52
+LATAM
+14
+162
+American Airlines
+15
+106
+American Airlines
+3
+127
+American Airlines
+1
+143
+American Airlines
+5
+131
+LATAM
+4
+31
+GOL
+1
+181
+AZUL
+15
+139
+GOL
+14
+151
+AZUL
+3
+118
+GOL
+8
+157
+American Airlines
+2
+90
+American Airlines
+1
+61
+GOL
+15
+149
+American Airlines
+15
+107
+GOL
+11
+15
+GOL
+4
+18
+American Airlines
+6
+156
+LATAM
+12
+173
+AZUL
+14
+20
+American Airlines
+3
+49
+American Airlines
+5
+56
+AZUL
+7
+84
+American Airlines
+14
+145
+American Airlines
+12
+52
+GOL
+3
+144
+American Airlines
+5
+116
+LATAM
+6
+97
+American Airlines
+10
+4
+AZUL
+14
+189
+LATAM
+14
+153
+American Airlines
+8
+68
+American Airlines
+5
+64
+GOL
+14
+105
+American Airlines
+5
+166
+American Airlines
+2
+93
+GOL
+15
+151
+LATAM
+11
+136
+American Airlines
+7
+90
+American Airlines
+9
+148
+American Airlines
+2
+48
+American Airlines
+1
+77
+American Airlines
+6
+23
+American Airlines
+9
+26
+American Airlines
+1
+67
+American Airlines
+12
+30
+American Airlines
+2
+125
+LATAM
+9
+92
+AZUL
+8
+193
+LATAM
+8
+33
+AZUL
+6
+163
+GOL
+8
+18
+American Airlines
+3
+120
+American Airlines
+11
+103
+LATAM
+12
+0
+AZUL
+7
+131
+LATAM
+7
+44
+American Airlines
+9
+38
+AZUL
+10
+2
+LATAM
+13
+154
+American Airlines
+1
+181
+American Airlines
+14
+191
+American Airlines
+15
+198
+American Airlines
+4
+85
+AZUL
+15
+131
+American Airlines
+6
+2
+GOL
+11
+72
+LATAM
+12
+22
+American Airlines
+4
+140
+GOL
+15
+58
+American Airlines
+8
+130
+American Airlines
+14
+24
+American Airlines
+12
+195
+American Airlines
+2
+152
+LATAM
+1
+76
+GOL
+8
+141
+AZUL
+15
+82
+GOL
+14
+185
+AZUL
+13
+53
+American Airlines
+12
+51
+American Airlines
+14
+122
+AZUL
+5
+83
+American Airlines
+2
+186
+GOL
+2
+106
+GOL
+4
+7
+American Airlines
+2
+52
+LATAM
+10
+36
+American Airlines
+15
+79
+American Airlines
+7
+58
+American Airlines
+4
+16
+American Airlines
+4
+184
+AZUL
+2
+116
+LATAM
+11
+1
+AZUL
+3
+87
+American Airlines
+4
+138
+LATAM
+3
+104
+AZUL
+8
+164
+American Airlines
+2
+136
+American Airlines
+4
+34
+American Airlines
+4
+72
+AZUL
+6
+106
+LATAM
+13
+26
+LATAM
+15
+75
+American Airlines
+8
+58
+American Airlines
+6
+152
+LATAM
+7
+18
+American Airlines
+8
+39
+GOL
+6
+171
+GOL
+3
+170
+GOL
+3
+156
+American Airlines
+11
+91
+GOL
+12
+192
+LATAM
+1
+93
+American Airlines
+15
+182
+American Airlines
+13
+92
+American Airlines
+9
+115
+AZUL
+1
+97
+LATAM
+5
+78
+GOL
+2
+85
+GOL
+10
+174
+LATAM
+6
+19
+American Airlines
+11
+141
+GOL
+10
+38
+LATAM
+6
+134
+AZUL
+11
+200
+American Airlines
+10
+64
+American Airlines
+4
+172
+American Airlines
+4
+102
+American Airlines
+13
+6
+LATAM
+7
+153
+AZUL
+13
+177
+LATAM
+11
+112
+American Airlines
+5
+157
+American Airlines
+6
+109
+American Airlines
+3
+72
+GOL
+4
+71
+American Airlines
+12
+91
+GOL
+1
+116
+GOL
+5
+123
+American Airlines
+7
+3
+American Airlines
+2
+183
+GOL
+6
+36
+GOL
+14
+100
+AZUL
+11
+159
+American Airlines
+14
+83
+LATAM
+13
+105
+GOL
+7
+95
+AZUL
+13
+5
+LATAM
+11
+193
+GOL
+9
+95
+American Airlines
+1
+81
+American Airlines
+15
+51
+AZUL
+8
+187
+LATAM
+12
+60
+American Airlines
+3
+35
+American Airlines
+8
+43
+GOL
+6
+24
+GOL
+4
+13
+American Airlines
+9
+96
+GOL
+13
+13
+American Airlines
+2
+119
+American Airlines
+10
+131
+American Airlines
+3
+153
+AZUL
+13
+14
+American Airlines
+10
+73
+AZUL
+7
+59
+American Airlines
+8
+48
+American Airlines
+14
+127
+American Airlines
+14
+18
+LATAM
+9
+108
+LATAM
+6
+45
+American Airlines
+1
+87
+American Airlines
+2
+7
+American Airlines
+3
+179
+LATAM
+13
+34
+American Airlines
+11
+67
+American Airlines
+4
+29
+American Airlines
+6
+96
+AZUL
+13
+135
+LATAM
+10
+129
+American Airlines
+12
+57
+GOL
+8
+47
+GOL
+12
+49
+American Airlines
+13
+133
+GOL
+6
+176
+American Airlines
+11
+187
+American Airlines
+9
+112
+American Airlines
+1
+189
+GOL
+3
+199
+LATAM
+13
+123
+LATAM
+3
+65
+American Airlines
+11
+6
+American Airlines
+15
+131
+AZUL
+12
+65
+LATAM
+2
+33
+American Airlines
+11
+159
+LATAM
+1
+200
+American Airlines
+14
+155
+LATAM
+8
+96
+American Airlines
+11
+12
+LATAM
+4
+92
+American Airlines
+6
+94
+American Airlines
+9
+120
+American Airlines
+6
+3
+GOL
+11
+6
+American Airlines
+3
+52
+American Airlines
+15
+54
+LATAM
+3
+15
+AZUL
+3
+37
+GOL
+2
+195
+LATAM
+9
+91
+American Airlines
+8
+177
+GOL
+4
+125
+LATAM
+10
+7
+GOL
+5
+184
+LATAM
+11
+166
+American Airlines
+2
+47
+AZUL
+7
+189
+American Airlines
+14
+190
+American Airlines
+10
+41
+American Airlines
+12
+28
+AZUL
+1
+12
+LATAM
+12
+40
+American Airlines
+5
+41
+LATAM
+4
+101
+LATAM
+14
+183
+American Airlines
+6
+1
+American Airlines
+6
+131
+American Airlines
+12
+67
+AZUL
+5
+39
+American Airlines
+14
+44
+American Airlines
+15
+118
+LATAM
+3
+35
+GOL
+5
+113
+American Airlines
+1
+106
+American Airlines
+3
+127
+American Airlines
+4
+132
+American Airlines
+10
+166
+AZUL
+7
+46
+GOL
+2
+119
+GOL
+12
+140
+LATAM
+13
+125
+AZUL
+15
+91
+American Airlines
+3
+70
+American Airlines
+8
+169
+AZUL
+8
+177
+American Airlines
+15
+177
+American Airlines
+7
+43
+LATAM
+12
+79
+American Airlines
+14
+15
+AZUL
+15
+161
+AZUL
+13
+183
+LATAM
+13
+61
+American Airlines
+6
+12
+GOL
+3
+43
+LATAM
+3
+88
+LATAM
+2
+84
+GOL
+1
+3
+GOL
+13
+15
+GOL
+14
+119
+American Airlines
+4
+53
+AZUL
+13
+185
+GOL
+7
+23
+GOL
+13
+15
+American Airlines
+4
+187
+American Airlines
+5
+13
+GOL
+15
+110
+American Airlines
+5
+44
+American Airlines
+15
+34
+AZUL
+10
+138
+American Airlines
+1
+35
+LATAM
+5
+9
+GOL
+2
+186
+AZUL
+5
+123
+American Airlines
+3
+160
+GOL
+3
+81
+American Airlines
+8
+64
+LATAM
+2
+62
+American Airlines
+5
+131
+AZUL
+6
+31
+American Airlines
+15
+144
+GOL
+13
+120
+American Airlines
+10
+146
+American Airlines
+10
+78
+American Airlines
+9
+101
+American Airlines
+6
+60
+AZUL
+10
+120
+American Airlines
+5
+110
+AZUL
+1
+172
+LATAM
+4
+144
+LATAM
+3
+197
+American Airlines
+3
+109
+GOL
+10
+16
+GOL
+5
+87
+American Airlines
+9
+142
+GOL
+2
+157
+American Airlines
+11
+163
+American Airlines
+15
+120
+GOL
+8
+60
+American Airlines
+4
+77
+GOL
+13
+123
+American Airlines
+15
+53
+American Airlines
+8
+24
+LATAM
+8
+32
+American Airlines
+2
+145
+GOL
+7
+33
+American Airlines
+8
+178
+LATAM
+6
+178
+AZUL
+6
+189
+LATAM
+4
+200
+GOL
+9
+190
+American Airlines
+9
+96
+GOL
+7
+12
+American Airlines
+15
+145
+GOL
+3
+63
+GOL
+3
+0
+American Airlines
+15
+63
+American Airlines
+9
+83
+GOL
+10
+146
+GOL
+8
+112
+GOL
+12
+60
+GOL
+1
+92
+American Airlines
+3
+141
+GOL
+14
+46
+GOL
+8
+22
+GOL
+7
+70
+GOL
+15
+192
+AZUL
+11
+17
+American Airlines
+5
+15
+American Airlines
+7
+31
+LATAM
+10
+117
+LATAM
+1
+43
+American Airlines
+15
+151
+American Airlines
+7
+57
+American Airlines
+8
+70
+GOL
+9
+91
+AZUL
+2
+132
+AZUL
+8
+26
+American Airlines
+8
+118
+GOL
+9
+59
+American Airlines
+4
+93
+LATAM
+14
+193
+American Airlines
+1
+4
+GOL
+11
+77
+LATAM
+7
+110
+GOL
+1
+140
+GOL
+6
+34
+LATAM
+8
+20
+AZUL
+13
+147
+GOL
+12
+158
+American Airlines
+7
+195
+American Airlines
+8
+92
+American Airlines
+7
+111
+GOL
+11
+68
+American Airlines
+12
+176
+GOL
+9
+90
+American Airlines
+12
+131
+GOL
+6
+20
+AZUL
+14
+162
+American Airlines
+2
+137
+GOL
+11
+188
+AZUL
+7
+185
+GOL
+15
+175
+AZUL
+2
+60
+AZUL
+15
+183
+LATAM
+11
+120
+American Airlines
+12
+187
+GOL
+9
+164
+LATAM
+9
+181
+AZUL
+8
+100
+American Airlines
+3
+54
+American Airlines
+1
+151
+American Airlines
+3
+27
+AZUL
+7
+45
+American Airlines
+9
+166
+GOL
+12
+34
+American Airlines
+7
+57
+American Airlines
+7
+54
+GOL
+15
+37
+GOL
+10
+31
+GOL
+7
+38
+GOL
+9
+151
+American Airlines
+14
+134
+American Airlines
+12
+169
+American Airlines
+12
+82
+AZUL
+13
+180
+AZUL
+13
+103
+GOL
+8
+7
+American Airlines
+3
+166
+LATAM
+15
+181
+American Airlines
+10
+117
+American Airlines
+13
+152
+GOL
+13
+46
+GOL
+13
+43
+American Airlines
+7
+93
+American Airlines
+1
+108
+LATAM
+10
+193
+American Airlines
+2
+193
+American Airlines
+9
+200
+LATAM
+15
+25
+AZUL
+5
+35
+AZUL
+3
+8
+GOL
+8
+101
+AZUL
+1
+11
+LATAM
+12
+27
+American Airlines
+13
+190
+GOL
+12
+78
+GOL
+3
+57
+American Airlines
+5
+139
+American Airlines
+4
+192
+American Airlines
+8
+191
+AZUL
+9
+184
+AZUL
+2
+25
+LATAM
+7
+97
+GOL
+12
+23
+American Airlines
+2
+159
+AZUL
+13
+192
+AZUL
+4
+4
+LATAM
+4
+193
+AZUL
+10
+173
+LATAM
+1
+193
+LATAM
+3
+135
+AZUL
+14
+148
+American Airlines
+2
+164
+GOL
+6
+116
+GOL
+15
+82
+American Airlines
+14
+9
+AZUL
+15
+81
+GOL
+11
+1
+American Airlines
+5
+153
+American Airlines
+9
+60
+American Airlines
+5
+196
+GOL
+1
+15
+American Airlines
+2
+51
+GOL
+6
+93
+American Airlines
+6
+0
+American Airlines
+3
+3
+American Airlines
+6
+172
+GOL
+5
+50
+GOL
+1
+191
+AZUL
+5
+162
+AZUL
+11
+99
+American Airlines
+7
+193
+American Airlines
+14
+154
+LATAM
+13
+157
+GOL
+7
+6
+AZUL
+8
+84
+American Airlines
+15
+153
+LATAM
+8
+138
+LATAM
+15
+197
+AZUL
+15
+149
+American Airlines
+2
+153
+LATAM
+9
+196
+LATAM
+15
+74
+American Airlines
+13
+141
+LATAM
+13
+194
+GOL
+1
+0
+LATAM
+1
+181
+American Airlines
+11
+107
+GOL
+13
+170
+GOL
+3
+200
+American Airlines
+2
+181
+GOL
+11
+9
+GOL
+1
+35
+GOL
+3
+114
+GOL
+7
+98
+LATAM
+14
+4
+American Airlines
+12
+72
+GOL
+7
+194
+AZUL
+6
+41
+GOL
+13
+147
+American Airlines
+14
+104
+LATAM
+8
+74
+GOL
+4
+4
+American Airlines
+11
+184
+American Airlines
+15
+107
+American Airlines
+9
+150
+GOL
+4
+127
+AZUL
+6
+151
+American Airlines
+11
+184
+LATAM
+2
+22
+AZUL
+12
+175
+American Airlines
+3
+8
+American Airlines
+2
+60
+American Airlines
+4
+152
+AZUL
+11
+114
+American Airlines
+10
+167
+American Airlines
+10
+169
+AZUL
+8
+154
+LATAM
+1
+53
+GOL
+6
+92
+American Airlines
+7
+127
+GOL
+8
+130
+GOL
+15
+167
+GOL
+2
+44
+GOL
+1
+37
+American Airlines
+12
+31
+American Airlines
+7
+8
+American Airlines
+13
+137
+GOL
+15
+37
+AZUL
+12
+121
+GOL
+14
+21
+AZUL
+4
+31
+American Airlines
+3
+39
+American Airlines
+10
+71
+AZUL
+9
+143
+AZUL
+4
+155
+GOL
+9
+122
+LATAM
+2
+132
+American Airlines
+13
+196
+American Airlines
+6
+47
+American Airlines
+8
+68
+American Airlines
+13
+157
+American Airlines
+15
+13
+American Airlines
+13
+197
+AZUL
+4
+49
+LATAM
+10
+141
+GOL
+11
+169
+AZUL
+12
+171
+GOL
+3
+184
+GOL
+12
+56
+American Airlines
+6
+121
+American Airlines
+10
+75
+American Airlines
+12
+81
+American Airlines
+8
+71
+GOL
+3
+165
+LATAM
+14
+153
+LATAM
+5
+131
+GOL
+5
+132
+LATAM
+12
+73
+LATAM
+9
+36
+GOL
+8
+174
+American Airlines
+6
+66
+GOL
+1
+79
+American Airlines
+9
+70
+American Airlines
+5
+110
+LATAM
+3
+135
+American Airlines
+10
+162
+American Airlines
+11
+20
+GOL
+11
+134
+American Airlines
+7
+71
+American Airlines
+8
+32
